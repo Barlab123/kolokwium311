@@ -1,0 +1,30 @@
+[
+    {
+      "nazwa_czujnika": "temperatura",
+      "wartosc": 23.5,
+      "jednostka": "Celsjusza",
+      "czyDlugoTrwaly": false 
+
+    },
+    {
+        "nazwa_czujnika": "temperatura",
+        "wartosc": 23.5,
+        "jednostka": "Celsjusza",
+        "czyDlugoTrwaly": true 
+      },
+
+      {
+        "nazwa_czujnika": "wilgotność",
+        "wartosc": 55,
+        "jednostka": "%",
+        "czyDlugoTrwaly": true 
+      }
+      ,
+      {
+        "nazwa_urzadzenia": "czajnik",
+        "pojemonoscWlitrach": 2.5,
+        "czyElektryczny": true,
+        "rok_produkcji": 2023
+      }
+        
+]
