@@ -19,3 +19,11 @@ input {
   background-color: lightblue;
   margin: 1cm;
 }
+#autorstrona {
+    text-align: center;
+    margin-bottom: 1cm;
+}
+.my {
+    border: 2px solid black;
+    font-weight: bold;
+}
