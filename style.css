@@ -14,4 +14,24 @@
 .tableZdanymi th {
     color: white;
     background-color: black;
+#zdjstrona {
+    text-align: center;
+    margin-bottom: 1cm;
+}
+img {
+    width: 100px;
+    height: 100px;
+    margin: 1cm;
+    border: 2px solid black;
+}
+#formstrona {
+    text-align: center;
+    margin-bottom: 1cm;
+}
+button {
+    background-color: orange;
+}
+input {
+  background-color: lightblue;
+  margin: 1cm;
 }
